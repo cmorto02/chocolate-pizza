@@ -1,0 +1,166 @@
+header {
+  height: 100px;
+}
+nav {
+  width: 901px;
+  margin: 0px auto;
+  /* border: solid black; */
+}
+
+#logo {
+  float: left;
+  margin-right: 10px;
+}
+
+#Delicious {
+  font-family: 'Yellowtail', cursive;
+  display: inline;
+  margin-top: 40px;
+  font-size: 35px;
+}
+
+#blog {
+  font-family: sans-serif;
+  font-size: 8px;
+}
+
+#navDiv1 {
+  height: 40px;
+  margin-top: 27.5px;
+  display: inline-block;
+  float: left;
+  width: 25%;
+}
+
+#navDiv2 {
+  width: 30%;
+  display: inline-block;
+  margin-top: 45px;
+  float: right;
+} 
+
+#navDiv2 li {
+  float: left;
+  padding: 1px;
+}
+
+#naDiv2 li:last-child {
+  float: right;
+}
+
+ #grey-line {
+  margin-top: 15px;
+  height: 7px;
+  width: 901px;
+}
+
+
+/* Main */
+
+
+main {
+  width: 901px;
+  margin: 30px auto 30px auto;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+}
+
+#posted {
+  font-family: sans-serif;
+  font-size: 10px;
+  color: grey;
+  margin: 2px;
+  display: inline-block;
+}
+
+#printer {
+  display:inline-block;
+  float:right;
+}
+
+#print {
+  display: inline-block;
+  float: right;
+  font-family: sans-serif;
+  font-size: 10px;
+  color: grey;
+  margin-left: 3px;
+}
+
+#hero {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+p {
+  text-indent: 20px;
+  margin-bottom: 15px;
+}
+
+section {
+  height: auto;
+  background-image: url("images/list-bg.png");
+  background-size: 901px 100%;
+  background-repeat: no-repeat;
+  object-fit: contain;
+  width: 901px;
+}
+
+section ul {
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 100px;
+  line-height: 150%;
+  font-family: hand
+}
+
+#van {
+  float: left;
+  display: inline;
+}
+
+#grey-line2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 7px;
+  width: 901px;
+}
+
+article p {
+  font-size: 15px;
+
+}
+
+#vanessa {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+button {
+  font-size: 15px;
+  padding: 10px 30px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  display: inline;
+  float: right;
+}
+
+article div {
+  float: left;
+  text-indent: 0px;
+}
+
+footer {
+  clear: both;   
+  width: 901px;
+  margin: 110px auto;
+}
+
+
+
